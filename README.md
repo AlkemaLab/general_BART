@@ -1,1 +1,3 @@
 # general_BART
+Code for estimating PATE based on CATEs from source study and estimated covariate distribution in target based on probabilistic sample using Bayesian bootstrap as in "Generalizing causal effect estimates to larger populations while accounting for (uncertainty in) effect modifiers using Bayesian bootstrap with application to estimating the effect of family planning on employment in Nigeria ".  The main code is on the “analysis” folder, with steps in separate R Markdown files numbered sequentially. 
+Note that in this repository we use Demographic and Health Survey (DHS) "model data" (https://dhsprogram.com/data/model-datasets.cfm) instead of Nigeria's DHS. The actual dataset can be obtained from DHS upon registration.
